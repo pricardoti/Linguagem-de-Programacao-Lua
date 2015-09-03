@@ -1,4 +1,4 @@
-# Linguagem-de-Programaçao-Lua
+# Linguagem de Programação Lua
 
 # História da Linguagem
 
