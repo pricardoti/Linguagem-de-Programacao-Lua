@@ -1,0 +1,4 @@
+*.jar
+Main$*
+log.txt
+.netbeans_*
