@@ -551,6 +551,8 @@ System.out.println(lexema + " - " + descricao);
 
       if (zzInput == YYEOF && zzStartRead == zzCurrentPos) {
         zzAtEOF = true;
+        
+        //tirei esse retorno
         //return null;
       }
       else {
