@@ -56,11 +56,6 @@ Lua contendo todas as bibliotecas padrões de Lua ocupa 242K e a biblioteca Lua 
 
 Lua pode ser usada para quaisquer propósitos, incluindo propósitos comerciais, sem qualquer custo ou burocracia. 
 
-
-# teste de imagem
-![alt tag](http://aedescombate.com.br/public/img/logotipo_aedes_combate_lupa.png)
-
-
 # Integrantes
 
  + Evandro Nascimento
