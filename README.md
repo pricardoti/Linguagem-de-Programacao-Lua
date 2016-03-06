@@ -58,7 +58,7 @@ Lua pode ser usada para quaisquer propósitos, incluindo propósitos comerciais,
 
 
 # teste de imagem
-![alt tag](https://www.google.com.br/?espv=2#q=wallpaper&tbm=isch&imgil=IwuraqPwilagxM%253A%253Bd3KdVWyVnYMaMM%253Bhttps%25253A%25252F%25252Fwww.planwallpaper.com%25252F&fir=IwuraqPwilagxM%253A%252Cd3KdVWyVnYMaMM%252C_&usg=__kCYOmolBhGhU0hlcDro-hQ1DlTs%3D&imgrc=IwuraqPwilagxM%3A)
+![alt tag](http://aedescombate.com.br/public/img/logotipo_aedes_combate_lupa.png)
 
 
 # Integrantes
